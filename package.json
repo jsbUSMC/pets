@@ -1,0 +1,9 @@
+{
+  "name": "Pets",
+  "version": "1.0.0",
+  "description": "Full stack app to track Pets",
+  "main": "index.js",
+  "author": "John S. Bissonette",
+  "license": "MIT",
+  "private": false
+}

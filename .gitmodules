@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/jsbUSMC/pet-server.git
+[submodule "client/native"]
+	path = client/native
+	url = https://github.com/jsbUSMC/pet-native
+[submodule "client/web"]
+	path = client/web
+	url = https://github.com/jsbUSMC/pet-web
