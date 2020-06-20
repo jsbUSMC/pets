@@ -7,3 +7,6 @@
 [submodule "client/web"]
 	path = client/web
 	url = https://github.com/jsbUSMC/pet-web
+[submodule "infra"]
+	path = infra
+	url = https://github.com/jsbUSMC/pet-infra.git
